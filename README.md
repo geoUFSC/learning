@@ -7,6 +7,9 @@ Scripts interativos para aprendizado de mecânica dos solos | Interactive learni
 
 Esse repositório contém scripts Jupyter Notebook, que podem ser utilizados com o [JupyterHub UFSC](https://notebooks.inf.ufsc.br/) ou o [Google Colab](https://colab.research.google.com/).
 
+- Resistência ao cisalhamento [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
+- Bulbo de tensões [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es.ipynb)
+
 ## Licença
 
 Esta obra está licenciada com [Creative Commons Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/).
