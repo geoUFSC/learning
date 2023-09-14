@@ -9,7 +9,7 @@ Esse repositório contém scripts Jupyter Notebook, que podem ser utilizados com
 
 - Resistência ao cisalhamento [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
 - Bulbo de tensões [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es.ipynb)
-- Gráfico do Limite de liquidez [[Colab]](https://github.com/geoUFSC/learning/blob/main/Limite_de_Liquidez.ipynb)
+- Gráfico do Limite de liquidez [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez.ipynb)
 
 ## Licença
 
