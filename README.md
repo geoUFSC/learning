@@ -11,10 +11,11 @@ MSI
  - Gráfico do Limite de liquidez [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez.ipynb)
  - Gráfico do Limite de liquidez e classificação [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez_v2.ipynb)
  - Tensões geostáticas no solo [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Tens%C3%B5es_no_solo.ipynb)
+ - Bulbo de tensões [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es.ipynb)
+
   
 MSII
  - Resistência ao cisalhamento [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
- - Bulbo de tensões [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es.ipynb)
  - Talude infinito [[Colab]](https://colab.research.google.com/drive/1Iz9PYOpVbBWJ4vfX5o0lyPB8lAK-rqKo)
 
 
