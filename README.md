@@ -1,5 +1,5 @@
 # Learning
-Scripts interativos para aprendizado de mecânica dos solos | Interactive learning scripts for soil mechanics
+Scripts interativos para aprendizado de Engenharia Geotécnica | Interactive learning scripts for Geotechnical Engineering. 
 
 <!-- ### Português (pt-br) -->
 
