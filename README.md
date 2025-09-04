@@ -15,7 +15,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
  - Bulbo de tensões _(Stress bulb)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es_Stress%20bulb.ipynb)
  - Tensões geostáticas no solo _(Geostatic stresses in soil)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Tens%C3%B5es_no_solo.ipynb)
  - Gráfico do Limite de liquidez _(Liquid limit)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez.ipynb)
- - Gráfico do Limite de liquidez e classificação _(Liquid limit & classification chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez_v2.ipynb)
+ - Carta de plasticidade de Casagrande _(Casagrande's plasticity chart)_(Liquid limit & classification chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Casagrande%20plasticidade_Plasticity%20chart.ipynb)
  
 **Mecânica dos Solos II _(Soil Mechanics II)_** 
  - Resistência ao cisalhamento _(Shear strength)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
@@ -33,18 +33,19 @@ _Sharing and modifications of these materials are welcome, as long as proper cre
 
 ---
 ---
-## **PROJETO: REPOSITÓRIO PYTHON PARA GEOTECNIA _(PYTHON REPOSITORY FOR GEOTECHNICS)_**
+#### **PROJETO: REPOSITÓRIO PYTHON PARA GEOTECNIA _(PYTHON REPOSITORY FOR GEOTECHNICS)_**
 Este repositório faz parte do projeto de extensão da **Universidade Federal de Santa Catarina** (UFSC) denominado **"Repositório Python para Geotecnia"**, cujo objetivo é desenvolver e compartilhar scripts interativos de geotecnia.\
 _This repostitory is part of the extension project of the **Federal University of Santa Catarina** (UFSC) called **"Python Repository for Geotechnics"**, which aims to develop and share interactive scripts for geotechnical engineering._
 
-### Contact:
-- Prof. Stephanie Thiesen* (coordenadora/_coordinator_)\
-*Para sugestões, entre em contato pelo e-mail: `stephanie.thiesen@ufsc.br`\
-_*For suggestions, please contact via e-mail: `stephanie.thiesen@ufsc.br`_
+##### **Contato: _(Contact:)_**
+- Prof. Stephanie Thiesen* (coordenadora/_coordinator_): `stephanie.thiesen@ufsc.br` \
+ *Para sugestões, entre em contato pelo e-mail \
+_*For suggestions, please contact via e-mail_
 
-### Isenção de Responsabilidade: _(Disclaimer:)_
+**Isenção de Responsabilidade:**
 Os autores deste projeto não se responsabilizam por quaisquer usos indevidos, imprecisões ou danos resultantes da aplicação dos scripts e funções contidos neste repositório. O uso dos materiais é de responsabilidade exclusiva do usuário. \
-_The authors of this project are not responsible for any misuse, inaccuracies, or damages resulting from the application of the scripts and functions contained in this repository. The use of the materials is the sole responsibility of the user._
+**_Disclaimer:_** _The authors of this project are not responsible for any misuse, inaccuracies, or damages resulting from the application of the scripts and functions contained in this repository. The use of the materials is the sole responsibility of the user._
 
 ---
 ---
+
