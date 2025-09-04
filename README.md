@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/geoUFSC-logo.png" alt="A flat, vector-style logo featuring a smiling cartoon armadillo with a light brown body and pastel blue hexagonal shell. The armadillo wears round glasses, giving it a studious and friendly look, and is framed inside a circular emblem with soft earthy colors, rolling green hills, and a beige sky in the background. Below the circle, the text “geoUFSC” appears in bold dark brown letters." width="300">
+<img src="images/geoUFSC-logo capacete texto.png" alt="A flat, vector-style logo featuring a smiling cartoon armadillo with a light brown body and pastel blue hexagonal shell. The armadillo wears round glasses, giving it a studious and friendly look, and is framed inside a circular emblem with soft earthy colors, rolling green hills, and a beige sky in the background. Below the circle, the text “geoUFSC” appears in bold dark brown letters." width="300">
 </p>
 
 # Learning
@@ -15,7 +15,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
  - Bulbo de tensões _(Stress bulb)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es_Stress%20bulb.ipynb)
  - Tensões geostáticas no solo _(Geostatic stresses in soil)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Tens%C3%B5es_no_solo.ipynb)
  - Gráfico do Limite de liquidez _(Liquid limit)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite_de_Liquidez.ipynb)
- - Carta de plasticidade de Casagrande _(Casagrande's plasticity chart)_(Liquid limit & classification chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Casagrande%20plasticidade_Plasticity%20chart.ipynb)
+ - Carta de plasticidade de Casagrande _(Casagrande's plasticity chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Casagrande%20plasticidade_Plasticity%20chart.ipynb)
  
 **Mecânica dos Solos II _(Soil Mechanics II)_** 
  - Resistência ao cisalhamento _(Shear strength)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
