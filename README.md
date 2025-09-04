@@ -1,4 +1,4 @@
-<img src="geoUFSC-logo.png" alt="A flat, vector-style logo featuring a smiling cartoon armadillo with a light brown body and pastel blue hexagonal shell. The armadillo wears round glasses, giving it a studious and friendly look, and is framed inside a circular emblem with soft earthy colors, rolling green hills, and a beige sky in the background. Below the circle, the text “geoUFSC” appears in bold dark brown letters." width="400">
+<img src="images\geoUFSC-logo.png" alt="A flat, vector-style logo featuring a smiling cartoon armadillo with a light brown body and pastel blue hexagonal shell. The armadillo wears round glasses, giving it a studious and friendly look, and is framed inside a circular emblem with soft earthy colors, rolling green hills, and a beige sky in the background. Below the circle, the text “geoUFSC” appears in bold dark brown letters." width="400">
 
 # Learning
 Scripts interativos para aprendizado de Engenharia Geotécnica \
