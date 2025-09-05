@@ -13,7 +13,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
 
 **Mecânica dos Solos I _(Soil Mechanics I)_**
  - Bulbo de tensões _(Stress bulb)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Bulbo%20de%20tens%C3%B5es_Stress%20bulb.ipynb)
- - Tensões geostáticas no solo _(Geostatic stresses in soil)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Tens%C3%B5es_no_solo.ipynb)
+ - Tensões geostáticas no solo _(Geostatic stresses in soil)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Tens%C3%B5es%20InSitu%20homog_Geostatic%20stress%20homog.ipynb)
  - Gráfico do Limite de liquidez _(Liquid limit chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Limite%20de%20liquidez_Liquid%20limit.ipynb)
  - Carta de plasticidade de Casagrande _(Casagrande's plasticity chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Casagrande%20plasticidade_Plasticity%20chart.ipynb)
  
