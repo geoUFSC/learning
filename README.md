@@ -18,7 +18,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
  - Carta de plasticidade de Casagrande _(Casagrande's plasticity chart)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Casagrande%20plasticidade_Plasticity%20chart.ipynb)
  
 **Mecânica dos Solos II _(Soil Mechanics II)_** 
- - Resistência ao cisalhamento _(Shear strength)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20Cisalhamento.ipynb)
+ - Resistência ao cisalhamento _(Shear strength)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/learning/blob/main/Resist%C3%AAncia%20ao%20cisalhamento_Shear%20strength.ipynb)
  - Estabilidade de talude infinito _(Stability slope: infinite slope)_ [[Colab]](https://colab.research.google.com/drive/1Iz9PYOpVbBWJ4vfX5o0lyPB8lAK-rqKo)
 
 
